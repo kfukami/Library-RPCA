@@ -1,9 +1,9 @@
 % lla_rpca_demo_solver.m
 % 2026 Kai Fukami (Tohoku University, kfukami1@tohoku.ac.jp)
 
-%% Authors:
+% Authors:
 % Pablo Koop, Isabel Scherl, and Kai Fukami
-%% We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
+% We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
 %     Ref: Pablo Koop, Isabel Scherl, and Kai Fukami,
 %     “Library-learning-assisted robust principal component analysis for denoising severely corrupted flow fields,”
 %     in Review
