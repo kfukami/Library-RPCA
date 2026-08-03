@@ -16,13 +16,21 @@ Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
 This repository contains
 
 main
+
 -- data
+
  |------ naca0012_demo_data.mat
+ 
  |------ naca0012_demo_geometry.inp
+
 -- functions
+
  |------ lla_rpca_demo_solver.m
+ 
  |------ rpca_solver.m
+
 -- scripts
+
  |------ lla_rpca_demo_main.m
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
