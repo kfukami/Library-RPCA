@@ -10,8 +10,8 @@ Figure: Overview of the Library-RPCA workflow — constructing noisy snapshots, 
 
 An example dataset of flow around a NACA0012 airfoil is also available.
 
-# Information
-Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
+# Authors
+Author: Pablo Koop and [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
 
 # Directory structure
         main/
@@ -26,5 +26,5 @@ Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 
-## Reference
+# Reference
 Pablo Koop, Isabel Scherl, and Kai Fukami, “Library-learning-assisted robust principal component analysis for denoising severely corrupted flow fields," in Review.
