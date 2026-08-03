@@ -1,3 +1,17 @@
+% lla_rpca_demo_main.m
+% 2026 Kai Fukami (Tohoku University, kfukami1@tohoku.ac.jp)
+
+% Authors:
+% Pablo Koop, Isabel Scherl, and Kai Fukami
+% We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
+%     Ref: Pablo Koop, Isabel Scherl, and Kai Fukami,
+%     “Library-learning-assisted robust principal component analysis for denoising severely corrupted flow fields,”
+%     in Review
+%
+% The code is written for educational clarity and not for speed.
+% -- version 1: Aug 3, 2026
+
+
 %% NACA0012 LLA-RPCA demonstration
 % Compare LLA-RPCA with standard RPCA on one approximate
 % vortex-shedding period of the NACA0012 dataset.
