@@ -10,5 +10,22 @@ Figure: Overview of the Library-RPCA workflow — constructing noisy snapshots, 
 
 An example dataset of flow around a NACA0012 airfoil is also available.
 
+# Information
+Author: [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
+
+This repository contains
+
+main
+-- data
+ |------ naca0012_demo_data.mat
+ |------ naca0012_demo_geometry.inp
+-- functions
+ |------ lla_rpca_demo_solver.m
+ |------ rpca_solver.m
+-- scripts
+ |------ lla_rpca_demo_main.m
+
+Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
+
 ## Reference
 Pablo Koop, Isabel Scherl, and Kai Fukami, “Library-learning-assisted robust principal component analysis for denoising severely corrupted flow fields," in Review.
