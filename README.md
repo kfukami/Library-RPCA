@@ -1,6 +1,6 @@
 # Library-RPCA
 
-A small library for learning low-rank spatial reconstruction bases from noisy snapshots using constrained RPCA-style decompositions.
+An example code of library-learning-assisted RPCA for denoising of fluid flows by Koop, Scherl, and Fukami.
 
 <p align="center">
   <img src="images/front_page.png" alt="Library-RPCA front page" style="max-width:100%;height:auto;">
@@ -8,11 +8,10 @@ A small library for learning low-rank spatial reconstruction bases from noisy sn
 
 Figure: Overview of the Library-RPCA workflow — constructing noisy snapshots, defining a constrained low-rank + sparse decomposition, building a candidate mode library, learning a reconstruction basis, and separating denoised signal from sparse corruption.
 
-## Quick start
 
-- See the code in the repository for examples and functionality.
-- If you'd like, I can add usage examples, installation instructions, and a citation section next.
+## Dataset
 
-## License
+An example dataset of flow around a NACA0012 airfoil is available here: 
 
-(If you want a specific license, tell me which and I will add it.)
+## Reference
+P. Koop, I. Scherl, and K. Fukami, “Library-learning-assisted robust principal component analysis for denoising severely corrupted flow fields," in Review.
