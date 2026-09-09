@@ -16,13 +16,10 @@ Author: Pablo Koop and [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku
 # Directory structure
         main/
         ├── data/
-        │   ├── naca0012_demo_data.mat
-        │   └── naca0012_demo_geometry.inp
-        ├── functions/
-        │   ├── lla_rpca_demo_solver.m
-        │   └── rpca_solver.m
-        └── scripts/
-            └── lla_rpca_demo_main.m
+        │   ├── NACA0012_a40_VelocityY.mat
+        │   └── geometry.inp
+        ├── llrpca_solver.m
+        └── main_llrpca.m
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 
