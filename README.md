@@ -11,7 +11,7 @@ Figure: Overview of the Library-RPCA workflow — constructing noisy snapshots, 
 An example dataset of flow around a NACA0012 airfoil is also available.
 
 # Authors
-Author: Pablo Koop and [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/) (Tohoku University)
+Authors: Pablo Koop, Isabel Scherl, and [Kai Fukami](https://www.kaif.mech.tohoku.ac.jp/)
 
 # Directory structure
         main/
